@@ -1,5 +1,3 @@
-# About ICP 3D Metaverse
+# About ICP 3D Metaverse (I-THREE-M)
 
-Our platform allows users to create virtual spaces and host them like Websites on the **Internet Computer** - `everything in 3D`. 
-Users can include 3D objects, images, videos and more in their spaces and thus make it their home on the 3D Web. 
-By linking to others' spaces, users can create their personal virtual neighborhood in the Metaverse.
+This ambitious project will leverage Rust for backend development and consider various frontend frameworks to ensure cross-platform compatibility. Key phases include initial research and prototyping, core development of 3D rendering and user interaction features, extensive testing and community feedback, and final documentation and launch. The project will focus on empowering developers with robust tools for innovation within the ICP ecosystem.
